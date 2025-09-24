@@ -26,5 +26,8 @@ This repository hosts the protocol, materials, and preliminary results of the pi
 - `Data/` → Anonymized datasets (to be uploaded after publication, in line with ethics approval)  
 - `Analysis/` → Statistical code (R / SPSS syntax)  
 - `Figures/` → CONSORT diagram, plots of outcomes, tables  
-- `Docs/` → Ethics approval, informed consent templates, 
+- `Docs/` → Ethics approval, informed consent templates,
+- ## 🔹 License
+This project is licensed under the terms of the **Creative Commons Attribution 4.0 International License (CC BY 4.0)**.  
+You are free to share and adapt the material with appropriate attribution.  
 
